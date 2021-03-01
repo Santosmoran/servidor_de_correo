@@ -14,7 +14,7 @@ paso2
     - sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/debian buster stable"
     
 paso 3 
-  -Actualice el repositorio de apt:
+  - Actualice el repositorio de apt:
     -sudo apt-get update
    
 paso 4 
